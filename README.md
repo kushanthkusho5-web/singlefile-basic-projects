@@ -13,7 +13,7 @@ Small, dependency-free Python projects that run in the terminal.
 - `stopwatch.py` - Use a stopwatch or countdown timer.
 - `blackjack_game.py` - Play Blackjack against a dealer and try to reach 21.
 - `number_guessing_game.py` - Guess a secret number across three difficulty levels.
-- `stopwatch.py` - Use a stopwatch or countdown timer.
+- `dungeon_crawler.py` - Explore a 3-floor dungeon, battle monsters, find loot, and slay the Void Dragon in a turn-based RPG.
 - `treasure_hunt.py` - Explore a hidden map and find the treasure before your moves run out.
 - `memory_match.py` - Flip cards to find matching pairs in a classic memory challenge.
 - `dice_duel.py` - Roll two dice per turn and beat the computer in a five-round duel.
