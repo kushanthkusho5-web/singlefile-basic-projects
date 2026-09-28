@@ -19,6 +19,7 @@ Small, dependency-free Python projects that run in the terminal.
 - `dice_duel.py` - Roll two dice per turn and beat the computer in a five-round duel.
 - `word_scramble.py` - Unscramble mixed-up words and build up your score.
 - `battleship.py` - Search a hidden 5x5 grid and sink all enemy ships.
+- `mastermind_game.py` - Crack the computer's four-digit code using exact and misplaced-digit clues.
 
 ## Run the Java game
 
